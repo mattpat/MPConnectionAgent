@@ -3,7 +3,7 @@
 //  MPConnectionAgent
 //
 //  Created by Matt Patenaude on 2/20/08.
-//  Copyright 2008 - 2009 Matt Patenaude. All rights reserved.
+//  Copyright (C) 2008 - 09 Matt Patenaude.
 //
 //  Permission is hereby granted, free of charge, to any person obtaining a copy
 //  of this software and associated documentation files (the "Software"), to deal
